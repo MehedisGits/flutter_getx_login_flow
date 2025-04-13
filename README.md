@@ -54,7 +54,7 @@ lib/
 1. **Clone the Repo**
 
 ```bash
-git clone https://github.com/your-username/flutter_getx_login_flow.git
+git clone https://github.com/MehedisGits/flutter_getx_login_flow
 cd flutter_getx_login_flow
 ```
 
@@ -123,7 +123,7 @@ class AuthMiddleware extends GetMiddleware {
 
 ## 📃 License
 
-MIT License © 2025 [Your Name](https://github.com/your-username)
+MIT License © 2025 [Rakibul Islam Mehedi](https://github.com/MehedisGits)
 
 ---
 
